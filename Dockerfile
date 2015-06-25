@@ -1,4 +1,4 @@
-FROM debian:wheezy 
+FROM tutum/curl:trusty
 MAINTAINER Timo Boll
 
 # Install InfluxDB
